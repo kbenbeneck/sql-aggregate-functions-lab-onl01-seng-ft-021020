@@ -1,6 +1,7 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
 
-def highest_student_gpa
+def highest_student_gp
+  "SELECT COUNT(gpa) FROM students;"
 end
 
 def lowest_student_gpa
